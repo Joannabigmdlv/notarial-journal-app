@@ -1,0 +1,1 @@
+# notarial-journal-app
