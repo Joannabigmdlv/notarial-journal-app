@@ -1,0 +1,9 @@
+notarial-journal-app/
+│
+├── README.md
+├── requirements.txt
+├── app.py or main.py               # Python app logic
+├── journal_data.csv                # (Optional) sample data
+├── static/                         # (For frontend CSS/JS if applicable)
+├── templates/                      # (For frontend HTML if using Flask/Django)
+└── utils/                          # (Custom utility functions/modules)
