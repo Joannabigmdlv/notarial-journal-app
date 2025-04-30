@@ -1,0 +1,15 @@
+luna-notary-app/
+├── backend/                  # Flask API
+│   ├── app.py
+│   ├── routes/
+│   ├── models/
+│   ├── utils/
+│   └── requirements.txt
+│
+├── mobile/                   # React Native app
+│   ├── App.js
+│   ├── screens/
+│   ├── components/
+│   └── package.json
+│
+└── README.md                 # Project overview & setup instructions
